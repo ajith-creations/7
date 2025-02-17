@@ -60,19 +60,19 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "Roots Newsletter",
+    title: "Carousels",
     des: " ",
     img: "/p1.svg",
     iconLists: [],
-    link: "https://phicus.us9.list-manage.com/track/click?u=1c1c8f39627af98a9dc737a69&id=e3bf11c927&e=c9536e4340",
+    link: "https://drive.google.com/drive/folders/1H8ujVR45YZYgSiHMRYdXy-lrC9imFw7s?usp=sharing",
   },
   {
     id: 2,
-    title: "CPMP Website Design",
+    title: "ElderAid New Website Prototype",
     des: "",
     img: "/p2.svg",
     iconLists: [],
-    link: "https://www.figma.com/proto/EgGUFSko1AluzF4tfm8IHA/Meta-String?node-id=283-9303&node-type=frame&t=aHQFQvFjZBnsXxdd-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
+    link: "https://www.figma.com/proto/nu03Vs8kDDN5rh3Zmfaw7z/EA?node-id=1-8&node-type=frame&t=ibyomahjpj2fRrXl-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1",
   },
   {
     id: 3,
